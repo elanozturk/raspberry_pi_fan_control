@@ -1,5 +1,4 @@
-# raspberry_pi_fan_control
-
+# raspberry_pi_fan_tuner
 RaspberryPI CPU fan tuner with a s8050 triode.
 
 This project enables a daemon which manage a CPU fan for you, it will start
@@ -48,7 +47,7 @@ Use `gpio readall` to get map like following image.
 Enter console of your Raspberry Pi then start with
 
 ```
-git clone https://github.com/winkidney/PIFanTuner.git
+git clone https://github.com/elanozturk/raspberry_pi_fan_tuner.git
 ```
 
 Or just download the zip file zipped by Github.
