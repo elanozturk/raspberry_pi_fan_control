@@ -1,4 +1,5 @@
-# PIFanTuner
+# raspberry_pi_fan_control
+
 RaspberryPI CPU fan tuner with a s8050 triode.
 
 This project enables a daemon which manage a CPU fan for you, it will start
